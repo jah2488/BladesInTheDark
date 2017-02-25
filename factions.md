@@ -12,7 +12,7 @@
 
 ## [Academia](academia)
 
-## [Haunting & Divine](haunting-and-divine)
+## [The Haunted and The Divine](haunting-and-divine)
 
 
 
