@@ -1,26 +1,45 @@
 
 ## [Law & Order](law-and-order)
+- [The Stowart Imperium Army](stowart-imperium-army)
 - [The City Guard](city-guard)
 - [Royal Security](royal-security)
-- [Marble Grace](stones-grace)
+- [Stone Grace](stones-grace)
 - [The Edge](the-edge)
+- [The Amber Vigil](amber-vigil)
 
 ## [Academia](academia)
+- [Previsionary Preparatory School for Learning and Achievement](previsionary-prepartory-school-for-learning-and-achievement)
+- [The Setting Sun Academy](setting-sun-academy)
+- [The Effective Educator's School for Higher Universal Learning](effective-educators-school-for-higher-universal-learning)
+- [Grand Artificer's Council](artificers-council)
+- [The Spire Devote](spire-devote)
+
 
 ## [Labor & Trade](labor-and-trade)
-
-## [Citizenry](citizenry)
+- [Donwell Trade Consortium](donwell-trade-consortium)
+- [(OTCROC) The Office of Trade Compliance and Regulatory Oversight Committee and Board](OTCROC)
+- [The Silver Standard](silver-standard)
+- [The Amber Vigil](amber-vigil)
+- [The Board](board-the)
+- [The Gardeners](gardeners-the)
 
 ## [The Underworld](underworld)
-- [The 4 and 2](the-six)
+- [The four and two](the-six)
 - [Gray Barons](gray-barons)
-- [(The Unofficial)Office of Asset Redistribution](oar)
-- []()
-
-
+- [(The Unofficial) Office of Asset Redistribution](oar)
+- [Don Kat](don-kat)
+- [The Board](board-the)
+- [The Marble Fist](marble-fist)
+- [The Gardeners](gardeners-the)
+- [Ungari](ungari)
+- [Phineas's Firestarters](phineas-firestarters)
 
 ## [The Haunted and The Divine](haunting-and-divine)
-
-
+- [Sue](sue)
+- [Grand Artificer's Council](artificers-council)
+- [The Spire Devote](spire-devote)
+- [The Setting Sun Academy](setting-sun-academy)
+- [Knights of The Golden Sun](knights-of-the-golden-sun)
+- [The Rooters](rooters-the)
 
 Ajack
