@@ -1,4 +1,3 @@
-
 _alias:_ The Moonlighter
 
 Green eyes, long blond hair, tall, and athletic
