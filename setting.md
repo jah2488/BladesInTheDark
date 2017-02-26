@@ -1,6 +1,6 @@
 # The City
 
-> The city has gone by many names over the years, _The City By The Sea_, _The City On The Edge_, _The City At Dawn's Brea_, _The TriCity Made Whole_, _The Unification City_, _The City of Last Light_, _The City of Known Tomorrow_, _Edge_, but many of us, we just call it The City, because we also call it home, and because its easier that way.
+> The city has gone by many names over the years, _The City By The Sea_, _The City On The Edge_, _The City At Dawn's Break_, _The TriCity Made Whole_, _The Unification City_, _The City of Last Light_, _The City of Known Tomorrow_, _Edge_, but many of us, we just call it The City, because we also call it home, and because its easier that way.
 
 > What you need to know is that The City did not spring up over night by some demigod's decree, nor was it founded by some band of adventurers looking to protect their home. No, this city was built over an eon of fighting, expansion, bartering, trading, backstabbing, and negotiating. What we have here is a testament to the greatness that is achievable by the various peoples of Loterah and the example of all the evils that can be found within them as well.
 
