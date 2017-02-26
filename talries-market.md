@@ -23,3 +23,8 @@
   - *East*: To [Stone Park](stone-park)
   - *West*: To [The Arch](arch-the)
   - *South*: To [The Gardens](gardens-the)
+
+
+## Guards
+ - [Karl]() (hat stolen, smoke bombed)
+ - [Steve]()
