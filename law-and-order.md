@@ -1,4 +1,5 @@
-Factions
+## Law and Order
+
 - [The Stowart Imperium Army](stowart-imperium-army)
 - [The City Guard](city-guard)
 - [Royal Security](royal-security)
