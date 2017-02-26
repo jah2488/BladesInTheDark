@@ -1,4 +1,3 @@
-
 ## [Academia](academia)
 - [Previsionary Preparatory School for Learning and Achievement](previsionary-prepartory-school-for-learning-and-achievement)
 - [The Setting Sun Academy](setting-sun-academy)
@@ -6,3 +5,4 @@
 - [Grand Artificer's Council](artificers-council)
 - [The Spire Devote](spire-devote)
 - [Advancement Weekly](advancement-weekly)
+- [The University](university-the)
