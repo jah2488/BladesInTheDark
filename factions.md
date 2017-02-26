@@ -13,6 +13,7 @@
 - [The Effective Educator's School for Higher Universal Learning](effective-educators-school-for-higher-universal-learning)
 - [Grand Artificer's Council](artificers-council)
 - [The Spire Devote](spire-devote)
+- [Advancement Weekly](advancement-weekly)
 
 
 ## [Labor & Trade](labor-and-trade)
@@ -24,6 +25,7 @@
 - [The Gardeners](gardeners-the)
 
 ## [The Underworld](underworld)
+- [Tortile Sisters](tortile-sisters)
 - [The four and two](the-six)
 - [Gray Barons](gray-barons)
 - [(The Unofficial) Office of Asset Redistribution](oar)
@@ -32,7 +34,9 @@
 - [The Marble Fist](marble-fist)
 - [The Gardeners](gardeners-the)
 - [Ungari](ungari)
+- [Lord Killian](lord-killian)
 - [Phineas's Firestarters](phineas-firestarters)
+- [The Spoken Word](spoken-word-the)
 
 ## [The Haunted and The Divine](haunting-and-divine)
 - [Sue](sue)
@@ -41,5 +45,7 @@
 - [The Setting Sun Academy](setting-sun-academy)
 - [Knights of The Golden Sun](knights-of-the-golden-sun)
 - [The Rooters](rooters-the)
+- [The Sun's Teaching](suns-teaching)
+- [Necrot News](necrot-news)
 
 Ajack

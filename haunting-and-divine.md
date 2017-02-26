@@ -1,1 +1,9 @@
-Factions
+## [The Haunted and The Divine](haunting-and-divine)
+- [Sue](sue)
+- [Grand Artificer's Council](artificers-council)
+- [The Spire Devote](spire-devote)
+- [The Setting Sun Academy](setting-sun-academy)
+- [Knights of The Golden Sun](knights-of-the-golden-sun)
+- [The Rooters](rooters-the)
+- [The Sun's Teaching](suns-teaching)
+- [Necrot News](necrot-news)
