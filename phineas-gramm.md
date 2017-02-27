@@ -16,7 +16,8 @@ Study 2
 Survey 1
 Tinker 1
 
-Prowess: 0
+Prowess: 1
+Prowl: 1
 
 Resolve: 3
 Attune 2
