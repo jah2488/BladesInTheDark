@@ -3,6 +3,7 @@
 ### Appearance
 > A tall and slender man, who seems more handsome than his age should allow, with a chiseled jaw and a mop of blonde hair carefully waxed and styled. His eyes portray an energy and fire that few can match. His face is never without a mischievous smirk and telling wink. - Vincent Talrie
 
+Normally wears a well fitted and pressed suit with a ebony cane.
 
 ### Aliases
  - Tal
