@@ -1,6 +1,6 @@
 # The Market
 
-> A vast and busy place, a bastion of working class commerce in the heart of the city. Tall and solid brick buildings, bustling alley ways full of cart vendors, a peculiar flowers hop on the corner, and a massive amphitheater under a latticework roof right in the center. Everything you could ever want is here. - [Vincent Talrie](vincent-talrie)
+> A vast and busy place, a bastion of working class commerce in the heart of the city. Tall and solid brick buildings, bustling alley ways full of cart vendors, a peculiar flowers shop on the corner, and a massive amphitheater under a latticework roof right in the center. Everything you could ever want is here, and more. - [Vincent Talrie](vincent-talrie)
  
 ## Noteworthy Buildings
 
