@@ -21,9 +21,9 @@ Study 1
 Survey 1
 Tinker 1
 
-Prowess: 3
+Prowess: 4
 Finesse 1
-Prowl 2
+Prowl 3
 
 Resolve 1
 Sway 1
