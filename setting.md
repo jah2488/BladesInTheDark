@@ -39,4 +39,6 @@ They value things mined from the rocks and grown in the earth, over that found i
 It is common for a member of The Granite Path to espouse their views by choosing oil and coal as their source of heat and light in a world growing more and more dependent on the arcane energies and eel powered devices.
 
 
-### 
+### Church of The Setting and Eternal Sun
+
+--
